@@ -7,7 +7,7 @@ function VideosSection() {
           <iframe 
                 loading="lazy"
                 className="mb-10 lg:mb-0 mx-auto lg:mx-5 shadow-lightBlueShadow rounded-xl my-20  w-full min-h-[200px] sm:min-h-[300px]  sm:min-w-[500px] 2xl:h-[400px] 2xl:w-[650px] "
-                src="https://www.youtube.com/embed/a2LvxQtIdoo?si=io6cBvuc0XkeuBE5"
+                src="https://www.youtube.com/watch?v=r_13IimCLk0"
                 title="YouTube video player"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerPolicy="strict-origin-when-cross-origin" allowFullScreen
